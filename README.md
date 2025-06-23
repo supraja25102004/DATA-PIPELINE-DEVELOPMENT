@@ -132,6 +132,28 @@ Saves the fully preprocessed dataset to processed_data.csv, enabling smooth tran
 
    Applies best practices for both numerical and categorical preprocessing.
 
+## Why This ETL Pipeline is Important in Data Science:
+
+1.In real-world data science projects:
+
+   Raw data is almost never model-ready.
+
+   Reproducibility and automation are essential.
+
+   Preprocessing needs to be scalable, modular, and reusable across different projects.
+
+2.This pipeline handles these issues by:
+
+   Providing consistent preprocessing.
+
+   Supporting both numerical and categorical features.
+
+   Outputting a clean dataset usable by any ML model.
+
+
+
+
+
 
 
 
