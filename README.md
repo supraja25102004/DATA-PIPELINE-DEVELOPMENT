@@ -1,4 +1,4 @@
-## DATA-PIPELINE-DEVELOPMENT
+# DATA-PIPELINE-DEVELOPMENT
 
 *COMPANY*: CODETECH IT SOLUTIONS
 
@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTHOSH KUMAR
 
-# ETL Pipeline Overview:
+## ETL Pipeline Overview:
 
 The ETL (Extract, Transform, Load) process commonly used in data preprocessing for machine learning projects. It takes a raw dataset in CSV format, cleans and transforms it using Scikit-learn pipelines, and saves a ready-to-use dataset for model training.
 
@@ -22,7 +22,7 @@ Transform: Clean, filter, or enrich the data.
 
 Load: Store the transformed data into a destination (CSV, database, etc.).
 
-# Purpose:
+## Purpose:
 
 Data preprocessing is a critical first step in any data science project. Raw datasets often contain:
 
@@ -36,9 +36,9 @@ To ensure the performance of machine learning models, data must be cleaned, stan
 
 way.
 
-# Pipeline Steps:
+## Pipeline Steps:
 
-# Extract (Load the Data):
+### Extract (Load the Data):
 
 def load_data(file_path):
 
@@ -48,13 +48,13 @@ Uses pandas to load raw data from a CSV file.
 
 Assumes the input is located at raw_data.csv.
 
-#  Transform (Preprocess the Data):
+### Transform (Preprocess the Data):
 
 def preprocess_data(df):
 
     ...
 
-# Key preprocessing steps performed:
+#### Key preprocessing steps performed:
 
 *1.Splitting Features and Target:*
 
@@ -90,7 +90,7 @@ def preprocess_data(df):
 
    The original target column is appended back to make the dataset ready for training.
 
-# Load (Save the Preprocessed Data):
+### Load (Save the Preprocessed Data):
 
 def save_data(df, Output_path):
 
@@ -98,7 +98,7 @@ def save_data(df, Output_path):
 
 Saves the fully preprocessed dataset to processed_data.csv, enabling smooth transition into the modeling phase.
 
-# How to use:
+### How to use:
 
 1.Place your raw dataset as raw_data.csv in the same folder.
 
@@ -110,7 +110,7 @@ Saves the fully preprocessed dataset to processed_data.csv, enabling smooth tran
 
 4.Check processed_data.csv for the output.
 
-# BENEFITS OF THIS PROJECT:
+## Benefits of this project:
 
 *1.Automated Preprocessing:*
 
