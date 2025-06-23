@@ -149,6 +149,10 @@ Saves the fully preprocessed dataset to processed_data.csv, enabling smooth tran
 
    Outputting a clean dataset usable by any ML model.
 
+## OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/630dce51-ddb2-4223-9607-e2295c2c76eb)
+
 
 
 
