@@ -33,7 +33,6 @@ Data preprocessing is a critical first step in any data science project. Raw dat
 3.Mixed data types (numerical and categorical)
 
 To ensure the performance of machine learning models, data must be cleaned, standardized, and encoded properly. This ETL pipeline addresses all these tasks in a reproducible, automated
-
 way.
 
 ## Pipeline Steps:
