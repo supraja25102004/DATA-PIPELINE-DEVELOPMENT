@@ -14,9 +14,7 @@
 
 # ETL PIPELINE OVERVIEW:
 
-The ETL (Extract, Transform, Load) process commonly used in data preprocessing for machine learning projects. It takes a raw dataset in CSV format, cleans and transforms it using 
-      
-Scikit-learn pipelines, and saves a ready-to-use dataset for model training.
+The ETL (Extract, Transform, Load) process commonly used in data preprocessing for machine learning projects. It takes a raw dataset in CSV format, cleans and transforms it using Scikit-learn pipelines, and saves a ready-to-use dataset for model training.
 
 Extract: Get data from one or more sources (CSV, database, API).
 
