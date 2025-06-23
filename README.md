@@ -14,6 +14,12 @@
 
 # ETL PIPELINE OVERVIEW:
 
- # Extract: *Get data from one or more sources (CSV, database, API)*.
+Extract: Get data from one or more sources (CSV, database, API).
+
+Transform: Clean, filter, or enrich the data.
+
+Load: Store the transformed data into a destination (CSV, database, etc.).
+
+
 
 
