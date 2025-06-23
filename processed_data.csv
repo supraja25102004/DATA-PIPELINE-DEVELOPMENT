@@ -1,0 +1,5 @@
+num__age,cat__income_50000,cat__income_60000,cat__income_70000,cat__income_america,cat__gender_Female,cat__gender_Male,cat__city_Boston,cat__city_Chicago,cat__city_New York,cat__city_america,target
+-0.6060915267313265,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,1
+0.40406101782088427,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0
+-1.212183053462653,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1
+1.4142135623730951,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0

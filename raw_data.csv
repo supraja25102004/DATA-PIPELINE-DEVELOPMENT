@@ -1,0 +1,5 @@
+age,income,gender,city,target
+25,50000,Male,New York,1
+30,60000,Female,Chicago,0
+22,america,Female,Boston,1
+35,70000,Male,america,0
