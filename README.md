@@ -49,9 +49,9 @@ Assumes the input is located at raw_data.csv.
 
 ### Transform (Preprocess the Data):
 
-def preprocess_data(df):
+    def preprocess_data(df):
 
-    ...
+          ...
 
 #### Key preprocessing steps performed:
 
