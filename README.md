@@ -20,6 +20,19 @@ Transform: Clean, filter, or enrich the data.
 
 Load: Store the transformed data into a destination (CSV, database, etc.).
 
+# FOLDER STRUCTURE:
+
+etl_pipeline/
+│
+├── etl_pipeline.py
+├── data/
+│   └── raw_data.csv
+│
+└── output/
+    └── processed_data.csv
+
+# 
+
 
 
 
