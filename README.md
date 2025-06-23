@@ -12,4 +12,8 @@
 
 *MENTOR*: NEELA SANTHOSH KUMAR
 
+# ETL PIPELINE OVERVIEW:
+
+ # Extract: *Get data from one or more sources (CSV, database, API)*.
+
 
