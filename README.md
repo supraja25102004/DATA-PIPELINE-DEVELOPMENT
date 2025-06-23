@@ -98,7 +98,7 @@ def save_data(df, Output_path):
 
 Saves the fully preprocessed dataset to processed_data.csv, enabling smooth transition into the modeling phase.
 
-### How to use:
+## How to use:
 
 1.Place your raw dataset as raw_data.csv in the same folder.
 
